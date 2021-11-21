@@ -1,6 +1,6 @@
-import '../styles/globals.css'
 import 'antd/dist/antd.css'
 import { QueryClient, QueryClientProvider } from 'react-query'
+import '../styles/globals.css'
 
 const queryClient = new QueryClient()
 
